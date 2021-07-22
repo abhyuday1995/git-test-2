@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Dosa
 Biryani
 Double ka meetha
@@ -9,3 +10,8 @@ Batman Dark Knight
 Gone in 60 Seconds
 G I Joe Retalliation
 >>>>>>> movies
+=======
+Dosa
+Biryani
+Double ka meetha
+>>>>>>> aab9551483b19c179b58a1bfada0917af05eb46d
